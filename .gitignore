@@ -1,0 +1,9 @@
+# Archivos internos de la caza (no forman parte de la web publicada)
+original/
+web-lista.zip
+servidor.log
+servidor.log.err
+servidor.ps1
+branding.json
+diagnostico.md
+propuesta.md
